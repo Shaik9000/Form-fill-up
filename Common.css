@@ -1,0 +1,24 @@
+.main{
+     
+color: aqua !important;
+    margin: 20px;
+    border: 2px solid indigo !important;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.cls{
+    /* color: blue !important ; */
+    background-color: pink !important;  
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.main2{
+    border: 2px ;
+    position: relative;
+text-align: center;
+    width: auto;
+    /* margin: 40px; */
+    /* padding: 300px; */
+}
